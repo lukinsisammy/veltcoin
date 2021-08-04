@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Veltcoin The road to financial freedom
 
 You can use the [editor on GitHub](https://github.com/lukinsisammy/veltcoin.finance/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
